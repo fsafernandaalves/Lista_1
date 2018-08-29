@@ -1,0 +1,11 @@
+C:\Users\Fernanda\source\repos\listadia28\listadia28\bin\Release\netcoreapp2.1\listadia28.deps.json
+C:\Users\Fernanda\source\repos\listadia28\listadia28\bin\Release\netcoreapp2.1\listadia28.runtimeconfig.json
+C:\Users\Fernanda\source\repos\listadia28\listadia28\bin\Release\netcoreapp2.1\listadia28.runtimeconfig.dev.json
+C:\Users\Fernanda\source\repos\listadia28\listadia28\bin\Release\netcoreapp2.1\listadia28.dll
+C:\Users\Fernanda\source\repos\listadia28\listadia28\bin\Release\netcoreapp2.1\listadia28.pdb
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.csprojAssemblyReference.cache
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.AssemblyInfoInputs.cache
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.AssemblyInfo.cs
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.dll
+C:\Users\Fernanda\source\repos\listadia28\listadia28\obj\Release\netcoreapp2.1\listadia28.pdb
